@@ -2,11 +2,11 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=UmutOzcan&color=fa324b&style=for-the-badge" height="23px" width="130px" />
 
-- 👀 I’m interested in Web & Mobile Development
+- 👀 I’m interested in Mobile Development
 
 - 🌱 I’m currently learning React Native
 
-- 💞️ I’m looking to collaborate on Full-Stack Development or Mobile 
+- 💞️ I’m looking to collaborate on Mobile Development 
 
 - 📫 How to reach me **umut.yozcan@gmail.com**
 
