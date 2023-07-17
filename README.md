@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/balimcayvarmi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="UmutOzcan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umutyozcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="UmutOzcan" height="30" width="40" /></a>
+<a href="https://twitter.com/balimcayvarmi" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="UmutOzcan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umutyozcan" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="UmutOzcan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
