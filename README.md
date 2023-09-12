@@ -18,7 +18,7 @@
                 <br>
                     <div align="center" >  
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
-			                <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+		      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react.js" width="75" height="75"/>
                       <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="75" height="75"/>
@@ -98,10 +98,9 @@ platform technology, works as a patient and drug tracking system.
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&hide=csharp,shaderlab,kotlin,hlsl&layout=compact&theme=radical&langs_count=8">
-  <br
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmutOzcan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=moltack&hide=jupyter%20notebook&langs_count=8">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=radical" width="400px">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=moltack&hide=prs,contribs&rank_icon=github" width="400px">
 </div>
 <br>
