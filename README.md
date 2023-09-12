@@ -26,9 +26,10 @@
                       <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-plain.svg" alt="csharp" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="%100"/> 
                     </div>
 </div>
+<hr>
 
 <!-- PROJECTS -->
 
@@ -40,7 +41,7 @@
 				<h3 align="center">Patient Tracking System</h3>
 				<div align="center">  
 					<a href='https://github.com/UmutOzcan/GetWell-Patient-Tracking-System' target="_blank">
-					<img src="https://github.com/UmutOzcan/UmutOzcan/blob/517de98d52c80fad894649ad0c9efabc9f2d5059/assets/patienttrackingsystem/home.JPG" alt="patienttrackingsystem" height="275" />
+					<img src="https://github.com/UmutOzcan/UmutOzcan/blob/32a8d5f54dd2c581324a535fe480dad2994c7092/assets/PatientTracking/home.JPG" alt="patienttracking" height="%100" />
 					</a>
 					<br>
 					<br>
@@ -59,10 +60,10 @@ platform technology, works as a patient and drug tracking system.
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Web based Manufactoring Execution System</h3>
+				<h3 align="center">Web Based Manufactoring Execution System</h3>
 				<div align="center" >  
 					<a href='https://github.com/UmutOzcan/Web-based-MES-system' target="_blank">
-						<img src="https://github.com/UmutOzcan/UmutOzcan/blob/dc6d4f2227adb7f0e79c8302f16b9e53a947e067/assets/Nurus%20MES/home.JPG" alt="project 2" height="275" />
+						<img src="https://github.com/UmutOzcan/UmutOzcan/blob/dc6d4f2227adb7f0e79c8302f16b9e53a947e067/assets/Nurus%20MES/home.JPG" alt="project 2" height="%100" />
 					</a>
 					<br>
 					<br>
@@ -77,7 +78,6 @@ platform technology, works as a patient and drug tracking system.
         </tr>
 	</table>
 </div>
-<br />
 <br />
 <hr>
 
@@ -98,7 +98,7 @@ platform technology, works as a patient and drug tracking system.
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=moltack&hide=jupyter%20notebook&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=moltack&hide=jupyter%20notebook">
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=moltack&hide=prs,contribs&rank_icon=github" width="400px">
