@@ -98,8 +98,10 @@ platform technology, works as a patient and drug tracking system.
 <div align="center" margin="100px 0 0 0">
 
 <h2 align="center">Stats</h2>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmutOzcan" alt="UmutOzcan" /></p>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&hide=csharp,shaderlab,kotlin,hlsl&layout=compact&theme=radical&langs_count=8">
+  <br
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmutOzcan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="400px"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=radical" width="400px">
 </div>
 <br>
