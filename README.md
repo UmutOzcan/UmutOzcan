@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Umut Ozcan </h1>
 <h3 align="center">A full stack developer from Istanbul, TR</h3>
-<h4 align="center">Hi my name is Umut Ozcan a developer based out of Istanbul. I can briefly say that I'm an always-learner software developer who wants to build his future with zeros and ones. I love computer technologies, software and of course video games since childhood. This is perhaps the main reason why I chose this profession today. </h4>
+<p align="center">Hi my name is Umut Ozcan a developer based out of Istanbul. I can briefly say that I'm an always-learner software developer who wants to build his future with zeros and ones. I love computer technologies, software and of course video games since childhood. This is perhaps the main reason why I chose this profession today. </p>
 
 <hr>
 
