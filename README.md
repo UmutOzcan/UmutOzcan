@@ -90,9 +90,7 @@ platform technology, works as a patient and drug tracking system.
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/balimcayvarmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balimcayvarmi" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/umutyozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutyozcan" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://linkedin.com/in/umutyozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutyozcan" height="30" width="40" /></a>
   <br>
 </p>
 
