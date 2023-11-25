@@ -23,6 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="75" height="75"/>
         <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="75" height="75"/>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="75" height="75"/>
+	<br>
         <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-plain.svg" alt="csharp" width="75" height="75"/>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
