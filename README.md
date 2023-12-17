@@ -92,16 +92,4 @@ platform technology, works as a patient and drug tracking system.
   <br>
 </p>
 
-<hr>
 
-
-<!-- STATS -->
-<div align="center" margin="100px 0 0 0">
-
-<h2 align="center">Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=moltack&hide=jupyter%20notebook">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=moltack&hide=prs,contribs&rank_icon=github" width="400px">
-</div>
-<br>
