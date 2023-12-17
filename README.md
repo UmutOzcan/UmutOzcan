@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Umut Ozcan </h1>
 <h3 align="center">A software developer from Istanbul, TR</h3>
 <p align="center">Hi my name is Umut Ozcan a developer based out of Istanbul. I can briefly say that I'm an always-learner software developer who wants to build his future with zeros and ones. I love computer technologies, software and of course video games since childhood. This is perhaps the main reason why I chose this profession today. </p>
-<br>
 <!-- TECHS -->
 
 <h3 align="center">Skills</h3>
@@ -27,7 +26,6 @@
 	<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/>
 	</div>
 </div>
-<br>
 
 <!-- PROJECTS -->
 
@@ -60,7 +58,6 @@ platform technology, works as a patient and drug tracking system.</p>
         </tr>
 	</table>
 </div>
-<br />
 
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
