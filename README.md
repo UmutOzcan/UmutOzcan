@@ -27,38 +27,6 @@
 	</div>
 </div>
 
-<!-- PROJECTS -->
-
-<h3 align="center">Projects</h3>
-<div align="center">
-	<table>
-	<tr>
-	<td width="50%">
-	<h3 align="center">Patient Tracking System</h3>
-		<div align="center">  
-		<a href='https://github.com/UmutOzcan/GetWell-Patient-Tracking-System' target="_blank">
-		<img src="https://github.com/UmutOzcan/UmutOzcan/blob/32a8d5f54dd2c581324a535fe480dad2994c7092/assets/PatientTracking/home.JPG" alt="patienttracking" height="%100" /></a>
-		<br><br>
-		<p><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System" target="_blank"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/></a></p>
-		<p><strong> CSS, Javascript, React Native, Firebase</strong></p><p>This project, which I developed with React Native, today's important mobile cross
-platform technology, works as a patient and drug tracking system.</p>
-        	<br><br>
-	</div>
-	</td>
-	<td width="50%">
-	<h3 align="center">Web Based Manufactoring Execution System</h3>
-	<div align="center" >  
-		<a href='https://github.com/UmutOzcan/Web-based-MES-system' target="_blank">
-		<img src="https://github.com/UmutOzcan/UmutOzcan/blob/dc6d4f2227adb7f0e79c8302f16b9e53a947e067/assets/Nurus%20MES/home.JPG" alt="project 2" height="%100" /></a>
-		<br><br>
-		<p><a href="https://github.com/UmutOzcan/Web-based-MES-system" target="_blank"><img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/></a>  </p>	
-		<p><strong>HTML, CSS, .Net Core, MSSQL</strong> </p>
-		<p> A web-based panel was created for the manager to see, by obtaining information from the machines in the factory. In the project, the efficiency of the machines, failure rates and production outputs; An attempt was made to keep track of employee downtime and deviations. </p>
-	</div>
-        </tr>
-	</table>
-</div>
-
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
 	<h3 align="center">Stats</h3>
