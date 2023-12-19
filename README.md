@@ -1,7 +1,3 @@
-<div id="" align="center">
-  <img src="/assets/intro.jpeg" width="100%"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Umut Ozcan </h1>
 <h3 align="center">A software developer from Istanbul, TR</h3>
 <p align="center">Hi my name is Umut Ozcan a developer based out of Istanbul. I’m an always-learner software developer who wants to build his future with zeros and ones. </p>
