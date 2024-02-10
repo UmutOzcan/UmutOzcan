@@ -1,9 +1,83 @@
 <h1 align="center">Hi 👋, I'm Umut Ozcan </h1>
 <h3 align="center">A software developer from Istanbul, TR</h3>
 <p align="center">Hi my name is Umut Ozcan a developer based out of Istanbul. I’m an always-learner software developer who wants to build his future with zeros and ones. </p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th class="head">Projects</th>
+      <th>Technologies</th>
+      <th>Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td><a href="https://github.com/UmutOzcan/umutozcan.com">Personal Website (in progress.)</a></td>
+      <td>.NET, JavaScript, MSSQL, Bootstrap ...</td>
+      <td><a href="https://github.com/UmutOzcan/umutozcan.com">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">RESTful Pet Care API</a></td>
+      <td>.NET, AutoMapper, FluentValidation, Midllewares ...</td>
+      <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Web Based MES System</a></td>
+      <td>.NET, Arduino, MSSQL, MVC ...</td>
+      <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td><a href="https://github.com/UmutOzcan/WeatherApp">Weather Forecast App</a></td>
+      <td>HTML, CSS, JavaScript </td>
+      <td><a href="https://umutozcan.github.io/WeatherApp/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><a href="https://github.com/UmutOzcan/Restaurant-Menu">Restaurant Menu</a></td>
+      <td>HTML, CSS, JavaScript </td>
+      <td><a href="https://umutozcan.github.io/Restaurant-Menu/">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Patient Tracking App</a></td>
+      <td> React Native, React Navigation, Formik, Firebase ... </td>
+      <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Live Demo</a></td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td><a href="https://github.com/UmutOzcan/Tour">Tour Travel Agency</a></td>
+      <td> .NET, MSSQL, Bootstrap, EF Core ... </td>
+      <td><a href="https://github.com/UmutOzcan/Tour">Live Demo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<div align="center">
+<picture a>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 <!-- TECHS -->
 
-<h3 align="center">Skills</h3>
+<h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
 	<br>
@@ -27,7 +101,7 @@
 
 <!-- STATS -->
 <div align="center" margin="100px 0 0 0">
-	<h3 align="center">Stats</h3>
+	<h3 align="center">📊 GitHub Stats</h3>
   	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=catppuccin_latte&hide=jupyter%20notebook">
   	<br><br>
   	<img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=catppuccin_latte&hide=prs,contribs,issues&rank_icon=github" width="400px">
