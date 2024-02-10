@@ -34,13 +34,13 @@
       <td>04</td>
       <td><a href="https://github.com/UmutOzcan/WeatherApp">Weather Forecast App</a></td>
       <td>HTML, CSS, JavaScript </td>
-      <td><a href="https://umutozcan.github.io/WeatherApp/">Live Demo</a></td>
+      <td><a href="https://umutozcan.github.io/WeatherApp/">Review</a></td>
     </tr>
     <tr>
       <td>05</td>
       <td><a href="https://github.com/UmutOzcan/Restaurant-Menu">Restaurant Menu</a></td>
       <td>HTML, CSS, JavaScript </td>
-      <td><a href="https://umutozcan.github.io/Restaurant-Menu/">Live Demo</a></td>
+      <td><a href="https://umutozcan.github.io/Restaurant-Menu/">Review</a></td>
     </tr>
     <tr>
       <td>05</td>
