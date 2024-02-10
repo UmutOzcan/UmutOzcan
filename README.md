@@ -8,7 +8,6 @@
       <th>#</th>
       <th class="head">Projects</th>
       <th>Technologies</th>
-      <th>Review</th>
     </tr>
   </thead>
   <tbody>
@@ -16,43 +15,36 @@
       <td>01</td>
       <td><a href="https://github.com/UmutOzcan/umutozcan.com">Personal Website (in progress.)</a></td>
       <td>.NET, JavaScript, MSSQL, Bootstrap ...</td>
-      <td><a href="https://github.com/UmutOzcan/umutozcan.com">Review</a></td>
     </tr>
     <tr>
       <td>02</td>
       <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">RESTful Pet Care API</a></td>
       <td>.NET, AutoMapper, FluentValidation, Midllewares ...</td>
-      <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">Review</a></td>
     </tr>
     <tr>
       <td>03</td>
       <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Web Based MES System</a></td>
       <td>.NET, Arduino, MSSQL, MVC ...</td>
-      <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Review</a></td>
     </tr>
     <tr>
       <td>04</td>
       <td><a href="https://github.com/UmutOzcan/WeatherApp">Weather Forecast App</a></td>
       <td>HTML, CSS, JavaScript </td>
-      <td><a href="https://github.com/UmutOzcan/WeatherApp">Review</a></td>
     </tr>
     <tr>
       <td>05</td>
-      <td><a href="https://github.com/UmutOzcan/Restaurant-Menu">Restaurant Menu</a></td>
+      <td><a href="https://umutozcan.github.io/Restaurant-Menu/">Restaurant Menu</a></td>
       <td>HTML, CSS, JavaScript </td>
-      <td><a href="https://umutozcan.github.io/Restaurant-Menu/">Review</a></td>
     </tr>
     <tr>
       <td>05</td>
       <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Patient Tracking App</a></td>
       <td> React Native, React Navigation, Formik, Firebase ... </td>
-      <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Review</a></td>
     </tr>
     <tr>
       <td>06</td>
       <td><a href="https://github.com/UmutOzcan/Tour">Tour Travel Agency (in progress.)</a></td>
       <td> .NET, MSSQL, Bootstrap, EF Core ... </td>
-      <td><a href="https://github.com/UmutOzcan/Tour">Review</a></td>
     </tr>
   </tbody>
 </table>
