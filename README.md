@@ -8,7 +8,7 @@
       <th>#</th>
       <th class="head">Projects</th>
       <th>Technologies</th>
-      <th>Live Demo</th>
+      <th>Review</th>
     </tr>
   </thead>
   <tbody>
@@ -16,19 +16,19 @@
       <td>01</td>
       <td><a href="https://github.com/UmutOzcan/umutozcan.com">Personal Website (in progress.)</a></td>
       <td>.NET, JavaScript, MSSQL, Bootstrap ...</td>
-      <td><a href="https://github.com/UmutOzcan/umutozcan.com">Live Demo</a></td>
+      <td><a href="https://github.com/UmutOzcan/umutozcan.com">Review</a></td>
     </tr>
     <tr>
       <td>02</td>
       <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">RESTful Pet Care API</a></td>
       <td>.NET, AutoMapper, FluentValidation, Midllewares ...</td>
-      <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">Live Demo</a></td>
+      <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">Review</a></td>
     </tr>
     <tr>
       <td>03</td>
       <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Web Based MES System</a></td>
       <td>.NET, Arduino, MSSQL, MVC ...</td>
-      <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Live Demo</a></td>
+      <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Review</a></td>
     </tr>
     <tr>
       <td>04</td>
@@ -46,13 +46,13 @@
       <td>05</td>
       <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Patient Tracking App</a></td>
       <td> React Native, React Navigation, Formik, Firebase ... </td>
-      <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Live Demo</a></td>
+      <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Review</a></td>
     </tr>
     <tr>
       <td>06</td>
-      <td><a href="https://github.com/UmutOzcan/Tour">Tour Travel Agency</a></td>
+      <td><a href="https://github.com/UmutOzcan/Tour">Tour Travel Agency (in progress.)</a></td>
       <td> .NET, MSSQL, Bootstrap, EF Core ... </td>
-      <td><a href="https://github.com/UmutOzcan/Tour">Live Demo</a></td>
+      <td><a href="https://github.com/UmutOzcan/Tour">Review</a></td>
     </tr>
   </tbody>
 </table>
