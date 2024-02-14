@@ -2,7 +2,7 @@
 <h3>A software developer from Istanbul, TR</h3>
 <p>Hi my name is Umut Ozcan a developer based out of Istanbul. I’m an always-learner software developer who wants to build his future with zeros and ones. </p>
 
-<--! PROJECTS -->
+<!-- PROJECTS -->
 
 <table>
   <thead>
