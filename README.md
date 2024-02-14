@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Umut Ozcan </h1>
-<h3 align="center">A software developer from Istanbul, TR</h3>
-<p align="center">Hi my name is Umut Ozcan a developer based out of Istanbul. I’m an always-learner software developer who wants to build his future with zeros and ones. </p>
+<h1>Hi 👋, I'm Umut Ozcan </h1>
+<h3>A software developer from Istanbul, TR</h3>
+<p>Hi my name is Umut Ozcan a developer based out of Istanbul. I’m an always-learner software developer who wants to build his future with zeros and ones. </p>
 
-<table align="center">
+<table>
   <thead>
     <tr>
       <th>#</th>
@@ -51,11 +51,11 @@
 
 <!-- TECHS -->
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3>💻 Tech Stack</h3>
 
-<div align="center">
+<div>
 	<br>
-        <div align="center" > 
+        <div> 
 	<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/><a/>	
 	<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/><a/>
 	<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40"/><a/>
@@ -74,10 +74,8 @@
 </div>
 
 <!-- STATS -->
-<div align="center" margin="100px 0 0 0">
-	<h3 align="center">📊 GitHub Stats</h3>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=catppuccin_latte&hide=jupyter%20notebook">
-  	<br><br>
+<div margin="100px 0 0 0">
+	<h3>📊 GitHub Stats</h3>
   	<img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=catppuccin_latte&hide=prs,contribs,issues&rank_icon=github" width="400px">
 </div>
 <br>
