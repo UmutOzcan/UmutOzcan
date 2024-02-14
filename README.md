@@ -56,7 +56,6 @@
 <h3>💻 Tech Stack</h3>
 
 <div>
-	<br>
         <div> 
 	<a href="https://learn.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/><a/>	
 	<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/><a/>
