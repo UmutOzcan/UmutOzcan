@@ -2,6 +2,8 @@
 <h3>A software developer from Istanbul, TR</h3>
 <p>Hi my name is Umut Ozcan a developer based out of Istanbul. I’m an always-learner software developer who wants to build his future with zeros and ones. </p>
 
+<--! PROJECTS -->
+
 <table>
   <thead>
     <tr>
@@ -74,8 +76,8 @@
 </div>
 
 <!-- STATS -->
+
 <div margin="100px 0 0 0">
 	<h3>📊 GitHub Stats</h3>
   	<img src="https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=catppuccin_latte&hide=prs,contribs,issues&rank_icon=github" width="400px">
 </div>
-<br>
