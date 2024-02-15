@@ -9,44 +9,36 @@
     <tr>
       <th>#</th>
       <th class="head">Projects</th>
-      <th>Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>01</td>
       <td><a href="https://github.com/UmutOzcan/umutozcan.com">Personal Website (in progress.)</a></td>
-      <td>.NET, JavaScript, MSSQL, Bootstrap ...</td>
     </tr>
     <tr>
       <td>02</td>
       <td><a href="https://github.com/Fimple-Net-Bootcamp/week4-UmutOzcan">RESTful Pet Care API</a></td>
-      <td>.NET, AutoMapper, FluentValidation, Midllewares ...</td>
     </tr>
     <tr>
       <td>03</td>
       <td><a href="https://github.com/UmutOzcan/Web-based-MES-system">Web Based MES System</a></td>
-      <td>.NET, Arduino, MSSQL, MVC ...</td>
     </tr>
     <tr>
       <td>04</td>
       <td><a href="https://github.com/UmutOzcan/WeatherApp">Weather Forecast App</a></td>
-      <td>HTML, CSS, JavaScript </td>
     </tr>
     <tr>
       <td>05</td>
       <td><a href="https://umutozcan.github.io/Restaurant-Menu/">Restaurant Menu</a></td>
-      <td>HTML, CSS, JavaScript </td>
     </tr>
     <tr>
       <td>05</td>
       <td><a href="https://github.com/UmutOzcan/GetWell-Patient-Tracking-System">Patient Tracking App</a></td>
-      <td> React Native, React Navigation, Formik, Firebase ... </td>
     </tr>
     <tr>
       <td>06</td>
       <td><a href="https://github.com/UmutOzcan/Tour">Tour Travel Agency (in progress.)</a></td>
-      <td> .NET, MSSQL, Bootstrap, EF Core ... </td>
     </tr>
   </tbody>
 </table>
