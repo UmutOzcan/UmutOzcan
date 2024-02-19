@@ -24,7 +24,7 @@ I’m an always-learner software developer who wants to build his future with ze
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F7F7F7.svg?logo=linkedin&style=for-the-badge&logoColor=%230077B5)](https://www.linkedin.com/in/umutyozcan/)
-[![Mail](https://img.shields.io/badge/gmail-%23F7F7F7?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:umut.yozcan@gmail.com)
+[![Mail](https://img.shields.io/badge/mail-%23F7F7F7?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:umut.yozcan@gmail.com)
 
 <!-- STATS -->
 
