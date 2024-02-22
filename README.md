@@ -20,6 +20,7 @@ I’m an always-learner software developer who wants to build his future with ze
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23F7F7F7?style=for-the-badge&logo=firebase&logoColor=%23FFCA28" alt="firebase"/><a/>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23F7F7F7?style=for-the-badge&logo=unity&logoColor=%23000000" alt="unity"/><a/>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-%23F7F7F7?style=for-the-badge&logo=postgresql&logoColor=%234169E1" alt="postgresql"/><a/>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-%23F7F7F7?style=for-the-badge&logo=python&logoColor=%233776AB" alt="python"/><a/>
 
 <!-- SOCIALS -->
 
