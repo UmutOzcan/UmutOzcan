@@ -19,7 +19,6 @@ I’m an always-learner software developer who wants to build his future with ze
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23F7F7F7?style=for-the-badge&logo=unity&logoColor=%23000000" alt="unity"/><a/>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-%23F7F7F7?style=for-the-badge&logo=postgresql&logoColor=%234169E1" alt="postgresql"/><a/>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-%23F7F7F7?style=for-the-badge&logo=python&logoColor=%233776AB" alt="python"/><a/>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/c++-%23F7F7F7?style=for-the-badge&logo=cplusplus&logoColor=%2300599C" alt="cplusplus"/><a/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F7F7F7?style=for-the-badge&logo=git&logoColor=%23F05032" alt="git"/> <a/>
 <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/swagger-%23F7F7F7?style=for-the-badge&logo=swagger&logoColor=%2385EA2D" alt="swagger"/><a/>
 <a href="https://visualstudio.microsoft.com/tr/vs/getting-started/" target="_blank"><img src="https://img.shields.io/badge/visual_studio-%23F7F7F7?style=for-the-badge&logo=visualstudio&logoColor=%235C2D91" alt="visualstudio"/><a/>
@@ -34,6 +33,6 @@ I’m an always-learner software developer who wants to build his future with ze
 <!-- STATS -->
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=swift&rank_icon=github&hide=issues&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmutOzcan&show_icons=true&theme=swift&rank_icon=github&hide=issues&count_private=true&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOzcan&layout=compact&theme=swift&hide=jupyter%20notebook&size_weight=0&count_weight=1)
